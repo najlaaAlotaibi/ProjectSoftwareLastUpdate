@@ -1,6 +1,9 @@
 # Project_software
 
 
+
+
+The list of features:
 1-The first feature of our application is that it allows access to the location to display quick results according to the near the company or employee
 2-On the search page, there is a filter to choose the type of work and its hours to shorten the search results
 3-There are also interviews between employees and companies, either by video call or messages through the application
