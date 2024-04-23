@@ -1,4 +1,11 @@
 # Project_software
+An introduction to the project: 
+
+This project falls within the requirements of the software engineering course. In this project, we, as a team consisting of 3 members, search for an idea for a project that aims to create a mobile application that provides services and meets the needs of the users. After a period of searching for an idea, we came up with For Work, a mobile application project that is used to contribute to solving the problem of unemployment and serves users from the categories of job seekers and companies that need employees. This type of project falls under the fields of business and communication between others. Our goals for this project are to provide a quick search and communication service between employees and companies through "online interviews or messages." Also, one of our goals is to provide all the steps required to find the fastest and best-suited job in the shortest possible time and in one app!.
+
+
+
+
 
 
 
