@@ -21,4 +21,4 @@ The list of features:
 
 The problem we are facing:
 1- After switching from Figma to Flutter, we can see changes to the page, such as changes to the text and colour of the "UI design." (Saturday, April 20)
-
+2- The site we used to convert figma to flutter is limited. It does not contain more than 30 pages, and we need 45 pages. (Saturday, April 20)
