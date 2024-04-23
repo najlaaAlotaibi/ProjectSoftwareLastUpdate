@@ -19,6 +19,7 @@ The list of features:
 5-The last feature is that when an employee applies to more than one company, the status of his acceptance to the job is clarified (his CV has been read or reviewed, or he has been rejected).(12-5-2024)
 
 
-The problem we are facing:
+The problems we are facing:
 1- After switching from Figma to Flutter, we can see changes to the page, such as changes to the text and colour of the "UI design." (Saturday, April 20)
 2- The site we used to convert figma to flutter is limited. It does not contain more than 30 pages, and we need 45 pages. (Saturday, April 20)
+3- We also face a problem with how to use the vs. code program and how to display screens sequentially, as it was in the UI design.
