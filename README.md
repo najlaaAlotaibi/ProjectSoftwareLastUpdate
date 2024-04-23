@@ -20,5 +20,6 @@ The list of features:
 
 
 The problem we are facing:
-1- After we transformation from figma to Flutter we see the  difference in the page like us design have change in colour and text. (Saturday 20/4)
-2-
+1- Following the switch from Figma to Flutter, we can see changes to the page's design, such as altered text and colour. (Saturday, April 20)
+
+
