@@ -16,3 +16,8 @@ The list of features:
 3-There are also interviews between employees and companies, either by video call or messages through the application.(3-5-2024)
 4-Receive notifications to the employee or company as a reminder at the time of the interview.(7-5-2024)
 5-The last feature is that when an employee applies to more than one company, the status of his acceptance to the job is clarified (his CV has been read or reviewed, or he has been rejected).(12-5-2024)
+
+
+The problem we are facing:
+1- After we transformation from figma to Flutter we see the  difference in the page like us design have change in colour and text. (Saturday 20/4)
+2-
