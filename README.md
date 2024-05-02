@@ -7,7 +7,9 @@ This project falls within the requirements of the software engineering course. I
 Currently, we, as a team, are required to implement this project. to implement this project in phases. First, design the UI using the Figma platform. Then we work on converting this UI into an application. In this project, we use Flutter to work on the front-end part. And then programming the backend using Firebase. Therefore, we created a new repository for this project on Github to follow up on the project, upload or update the required files, and complete it as expected. Also, we are currently in the stage of converting the UI to Flutter code, and in the next stage, we are trying to integrate the frontend with the backend using Firebase. Then work on programming the functions and the rest of the requirements.
 
 The list of features:
-1-The first feature of our application is that it allows access to the location to display quick results according to the proximity of the company or employee. (27-4-2024)
+
+
+1-The first feature of our application is that it allows access to the location to display quick results according to the proximity of the company or employee.(27-4-2024)
 
 
 2-On the search page, there is a filter to choose the type of work and its hours to shorten the search results.(30-4-2024)
