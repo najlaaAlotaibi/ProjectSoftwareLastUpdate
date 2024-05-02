@@ -1,4 +1,4 @@
-# Project_software
+# Software_project
 
 An introduction to the project: 
 
