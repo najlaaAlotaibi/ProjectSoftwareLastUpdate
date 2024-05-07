@@ -17,10 +17,8 @@ The list of features:
 
 
 
-1-The first feature of our application is that it allows access to the location to display quick results according to the proximity of the company or employee.(27-4-2024)
-
-
-
+1-The first feature of our application is that it allows access to the location to display quick results according to a specific location for the company or employee.(27-4-2024)
+ 
 2-On the search page, there is a filter to choose the type of work and its hours to shorten the search results.(30-4-2024)
 
 
